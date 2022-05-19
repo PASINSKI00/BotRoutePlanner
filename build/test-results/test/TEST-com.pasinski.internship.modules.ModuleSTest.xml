@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pasinski.internship.modules.ModuleSTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-04-24T18:09:08" hostname="LAPTOP-M9EHKSNA" time="0.003">
+  <properties/>
+  <testcase name="[1] 0, 1" classname="com.pasinski.internship.modules.ModuleSTest" time="0.0"/>
+  <testcase name="[2] 1, 2" classname="com.pasinski.internship.modules.ModuleSTest" time="0.0"/>
+  <testcase name="[3] 2, 3" classname="com.pasinski.internship.modules.ModuleSTest" time="0.001"/>
+  <testcase name="[4] 3, 4" classname="com.pasinski.internship.modules.ModuleSTest" time="0.001"/>
+  <testcase name="givenModuleS_whenGetTimeToRideOnto_thenReturn2()" classname="com.pasinski.internship.modules.ModuleSTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

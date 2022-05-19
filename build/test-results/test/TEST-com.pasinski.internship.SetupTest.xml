@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pasinski.internship.SetupTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-04-24T18:09:08" hostname="LAPTOP-M9EHKSNA" time="0.022">
+  <properties/>
+  <testcase name="getProductToGet()" classname="com.pasinski.internship.SetupTest" time="0.005"/>
+  <testcase name="givenInstructions_whenGetGrid_thenReturnGrid()" classname="com.pasinski.internship.SetupTest" time="0.002"/>
+  <testcase name="getStartingPosition()" classname="com.pasinski.internship.SetupTest" time="0.002"/>
+  <testcase name="givenProductInfo_whenPlaceProducts_thenProductIsPlaced()" classname="com.pasinski.internship.SetupTest" time="0.003"/>
+  <testcase name="givenData_whenGetDimensions_thenShouldReturnAMap()" classname="com.pasinski.internship.SetupTest" time="0.002"/>
+  <testcase name="getFinalPosition()" classname="com.pasinski.internship.SetupTest" time="0.003"/>
+  <testcase name="getModulesWithProduct()" classname="com.pasinski.internship.SetupTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

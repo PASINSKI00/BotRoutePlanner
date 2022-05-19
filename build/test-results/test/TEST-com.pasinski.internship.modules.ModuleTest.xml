@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pasinski.internship.modules.ModuleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-04-24T18:09:08" hostname="LAPTOP-M9EHKSNA" time="0.015">
+  <properties/>
+  <testcase name="givenProduct_whenAddProduct_thenProductAdded()" classname="com.pasinski.internship.modules.ModuleTest" time="0.011"/>
+  <testcase name="givenModuleWithProduct_whenRemoveProduct_thenTimeAdded()" classname="com.pasinski.internship.modules.ModuleTest" time="0.0"/>
+  <testcase name="givenNeighbouringModuleO_whenAddNeighbouringModule_thenShouldNotAddNeighbour()" classname="com.pasinski.internship.modules.ModuleTest" time="0.0"/>
+  <testcase name="givenModuleWithProduct_whenRemoveProduct_thenProductRemoved()" classname="com.pasinski.internship.modules.ModuleTest" time="0.001"/>
+  <testcase name="givenNeighbouringModules_whenAddNeighbouringModule_thenAdddedNeighbours()" classname="com.pasinski.internship.modules.ModuleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

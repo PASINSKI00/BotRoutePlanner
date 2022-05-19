@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pasinski.internship.GridTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-04-24T18:09:08" hostname="LAPTOP-M9EHKSNA" time="0.03">
+  <properties/>
+  <testcase name="givenModules_whenGetSet_thenShouldReturnProperSet()" classname="com.pasinski.internship.GridTest" time="0.02"/>
+  <testcase name="givenRightCoordinates_whenGetModule_thenShouldReturnModule()" classname="com.pasinski.internship.GridTest" time="0.002"/>
+  <testcase name="givenType_whenGetModuleOfAppropriateType_thenShouldReturnModuleOfType()" classname="com.pasinski.internship.GridTest" time="0.001"/>
+  <testcase name="givenWrongCoordinates_whenGetModule_thenShouldThrowException()" classname="com.pasinski.internship.GridTest" time="0.004"/>
+  <testcase name="givenModules_whenAddModule_thenListSizeValid()" classname="com.pasinski.internship.GridTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
