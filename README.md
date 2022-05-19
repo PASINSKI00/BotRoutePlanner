@@ -1,5 +1,6 @@
 # Bot Route Planner
-by [PASINSKI00](https://github.com/PASINSKI00)
+
+Application that finds the quickest path between modules.
 
 ## Key information about the project
 ### Construction
